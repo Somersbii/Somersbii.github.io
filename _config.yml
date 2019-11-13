@@ -39,7 +39,7 @@ author:
 nav:
   Home:           
     - '/blog/'
-  Blog:           
+  Categories::           
     - '/'
     #- { Categories: '/blog/categories/' }
     - { Java : '/blog/categories/#Java' }
