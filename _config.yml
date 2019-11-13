@@ -1,7 +1,7 @@
 # Site Info
-title: Somersbii's Blog
-#tagline: 'Somersbii Blog'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://Somersbii.github.io" target="_blank">@Somersbii</a>.'
+title: Somersbii의 공부 블로그
+#tagline: 'Somersbii의 공부 블로그'
+description: '프로그래밍 공부 블로그 입니다.'
 baseurl: "/lanyon"
 url: http://Somersbii.github.io
 logo: '/public/logo.png'
@@ -38,11 +38,13 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Blog:           
+    - '/'
+    #- { Categories: '/blog/categories/' }
+    - { Java : '/blog/categories/#Java' }
+    - { 알고리즘 : '/blog/categories/#algorithm' }
+    #- { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
