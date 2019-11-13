@@ -24,9 +24,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: Somersbii
+  description: Somersbii
+  #gravatar: # md5 hash of your email address
   contact:
     #linkedin:  <hide>
     github:    https://github.com/somersbii
@@ -39,7 +39,7 @@ author:
 nav:
   Home:           
     - '/blog/'
-  Categories::           
+  Categories:           
     - '/'
     #- { Categories: '/blog/categories/' }
     - { Java : '/blog/categories/#Java' }
@@ -57,7 +57,3 @@ category_page: '/blog/categories/'
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
-
-# Use the following plug-ins
-gems:
-  - jekyll-paginate
