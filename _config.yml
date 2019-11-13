@@ -1,9 +1,9 @@
 # Site Info
-title: Somersbii의 공부 블로그
-#tagline: 'Somersbii의 공부 블로그'
+title: 'Somersbii 공부 블로그'
+tagline: 'Somersbii 공부 블로그'
 description: '프로그래밍 공부 블로그 입니다.'
-baseurl: "/lanyon"
-url: http://Somersbii.github.io
+baseurl: ""
+url: https://somersbii.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -15,7 +15,7 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
@@ -26,34 +26,36 @@ version: 1.0.0
 author:
   name: Somersbii
   description: Somersbii
-  #gravatar: # md5 hash of your email address
   contact:
-    #linkedin:  <hide>
-    github:    https://github.com/somersbii
-    # facebook:  <hide>
-    #twitter:   <hide>
-    #weibo:     <hide>
-    #email:     <hide>
+    # linkedin:  <hide>
+    github: github.com/somersbii   
+    #facebook:  <hide>
+    # twitter:  <hide>
+    # weibo:    <hide>
+    email: somersby@kakao.com   
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Home:
     - '/blog/'
-  Categories:           
+  Categories:
     - '/'
-    #- { Categories: '/blog/categories/' }
-    - { Java : '/blog/categories/#Java' }
-    - { 알고리즘 : '/blog/categories/#algorithm' }
-    #- { Tags: '/blog/tags/' }
-  About:          
+    # - { Categories All: '/blog/categories/' }
+    - { Java: '/blog/categories/#java' }
+    - { 알고리즘 : '/blog/categories/#알고리즘' }
+    - { etc: '/blog/categories/#etc' }
+    # - { Tags: '/blog/tags/' }
+  About:
     - '/about/'
- 
+  Search:
+    - '/search/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
+
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: 'somersbii-github-io' # leave blank if you don't want disqus
