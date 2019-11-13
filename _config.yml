@@ -1,6 +1,6 @@
 # Site Info
-title: 'Somersbii 공부 블로그'
-tagline: 'Somersbii 공부 블로그'
+title: 'Somersby 공부 블로그'
+tagline: 'Somersby 공부 블로그'
 description: '프로그래밍 공부 블로그 입니다.'
 baseurl: ""
 url: https://somersbii.github.io
@@ -24,8 +24,8 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Somersbii
-  description: Somersbii
+  name: Somersby
+  description: Somersby
   contact:
     # linkedin:  <hide>
     github: github.com/somersbii   
