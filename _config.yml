@@ -41,6 +41,7 @@ nav:
   Categories:
     - '/'
     - { Java: '/blog/categories/#java' }
+    - { Servlet/JSP: '/blog/categories/#Servlet&JSP' }
     - { 알고리즘 : '/blog/categories/#알고리즘' }
     - { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
