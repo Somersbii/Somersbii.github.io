@@ -28,11 +28,11 @@ author:
   description: Somersby
   contact:
     # linkedin:  <hide>
-    github: https://github.com/somersbii   
+    github: https://github.com/somersbii
     #facebook:  <hide>
     # twitter:  <hide>
     # weibo:    <hide>
-    email: mailto:somersby@kakao.com   
+    email: mailto:somersby@kakao.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -42,6 +42,7 @@ nav:
     - '/'
     - { Java: '/blog/categories/#java' }
     - { Servlet/JSP: '/blog/categories/#Servlet&JSP' }
+    - { Project: '/blog/categories/#Project' }
     - { 알고리즘 : '/blog/categories/#알고리즘' }
     - { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
