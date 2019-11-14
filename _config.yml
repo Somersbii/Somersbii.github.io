@@ -43,7 +43,7 @@ nav:
     - { Java: '/blog/categories/#java' }
     - { Servlet/JSP: '/blog/categories/#Servlet&JSP' }
     - { Project: '/blog/categories/#Project' }
-    - { 알고리즘 : '/blog/categories/#알고리즘' }
+    - { 알고리즘: '/blog/categories/#알고리즘' }
     - { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
   About:
