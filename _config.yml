@@ -44,6 +44,7 @@ nav:
     - { Servlet/JSP: '/blog/categories/#Servlet&JSP' }
     - { Database: '/blog/categories/#Database' }
     - { Project: '/blog/categories/#Project' }
+    - { MDM: '/blog/categories/#MDM' }
     - { Android: '/blog/categories/#Android' }
     - { 알고리즘: '/blog/categories/#알고리즘' }
     - { etc: '/blog/categories/#etc' }
