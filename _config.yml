@@ -46,7 +46,7 @@ nav:
     - { Project: '/blog/categories/#Project' }
     - { MDM: '/blog/categories/#MDM' }
     - { Android: '/blog/categories/#Android' }
-    - { MacSetting: '/blog/categories/#Mac' }
+    - { Mac: '/blog/categories/#Mac' }
     - { 알고리즘: '/blog/categories/#알고리즘' }
     - { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
